@@ -1,2 +1,2 @@
-# Practica-1
+# Primer Ejercicio
 Primer trabajo
